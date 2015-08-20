@@ -11,7 +11,7 @@
 	body {
 		margin: 0px;
 		padding: 0px;
-		background: #180E0B;
+		background: #ECEAE9;
 		font-family: 'Raleway', sans-serif;
 		font-size: 11pt;
 		color: #000000;
@@ -128,7 +128,7 @@
 
 		ul.style a
 		{
-			color: #774535 !important;
+			color: #484848 !important;
 		}
 
 		ul.style1
@@ -285,18 +285,18 @@
 	{
 		position: relative;
 		padding: 6em 0em;
-		background: #261611;
-		color: #774535;
+		background: #FFFFFF;
+		color: #484848;
 	}
 
 	#main header h2
 	{
-		color: #bc765f;
+		color: #272626;
 	}
 
 	#main a
 	{
-		color: #bc765f;
+		color: #484848;
 	}
 
 /*********************************************************************************/
@@ -318,13 +318,13 @@
 	{
 		position: relative;
 		padding: 6em 0em;
-		background: #372019;
-		color: #A2A2A2;
+		background: #ECEAE9;
+		color: #292929;
 	}
 
 	#marketing header h2
 	{
-		color: #c0745d;
+		color: #635D5B;
 	}
 
 /*********************************************************************************/
@@ -348,3 +348,18 @@
 		text-decoration: none;
 		color: #774535 !important;
 	}
+
+	#map {
+		background-image: url('../images/map.png');
+		text-align: center;
+		height: 300px;
+		padding: 120px;
+		font-size: 20px;
+	}
+	#map a {
+		text-decoration: none;
+		color: #774535;
+		border: 3px solid #774535;
+		padding: 1em;
+	}
+
